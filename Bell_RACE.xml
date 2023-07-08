@@ -1,0 +1,9 @@
+﻿<PawnKindDef ParentName="BasePlayerPawnKind">
+  <defName>ExampleAlienColonist</defName>
+  <label>colonist</label>
+  <race>ExampleAlien</race>
+  <defaultFactionType>PlayerColony</defaultFactionType>
+
+  <!-- This is a required field. 13~21 is the default value for Crashlanded player colonists. -->
+  <initialResistanceRange>13~21</initialResistanceRange>
+</PawnKindDef>
